@@ -2764,7 +2764,7 @@
 			)
 		)
 		(instances
-			(project "LEOS-stack-template"
+			(project "LEOS-power-pcb-summer"
 				(path "/3703ddf2-8141-438d-86a8-1eaec9672d0d"
 					(page "3")
 				)
@@ -2876,9 +2876,52 @@
 			)
 		)
 		(instances
-			(project "LEOS-stack-template"
+			(project "LEOS-power-pcb-summer"
 				(path "/3703ddf2-8141-438d-86a8-1eaec9672d0d"
 					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 182.88 93.98)
+		(size 22.86 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "95e35e30-c0e8-4831-8d25-95717474c9c3")
+		(property "Sheetname" "Buck Converter"
+			(at 182.88 93.2684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "buck_converter.kicad_sch"
+			(at 182.88 105.9946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "LEOS-power-pcb-summer"
+				(path "/3703ddf2-8141-438d-86a8-1eaec9672d0d"
+					(page "4")
 				)
 			)
 		)

@@ -492,7 +492,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "LEOS-stack-template.kicad_pro",
+    "filename": "LEOS-power-pcb-summer.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -736,6 +736,10 @@
     [
       "341d819d-3d1a-4f8b-94f1-4c6aaa16d806",
       "Connectors"
+    ],
+    [
+      "95e35e30-c0e8-4831-8d25-95717474c9c3",
+      "Buck Converter"
     ]
   ],
   "text_variables": {}
